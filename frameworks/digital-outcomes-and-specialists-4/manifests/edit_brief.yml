@@ -47,7 +47,8 @@
     - participantAccessibilityNeeds
     - researchPlan
     - workplaceAddress
-    - workingArrangements
+    - workingArrangementsOutcomes
+    - workingArrangementsSpecialists
     - securityClearance
     - startDate
     - contractLength

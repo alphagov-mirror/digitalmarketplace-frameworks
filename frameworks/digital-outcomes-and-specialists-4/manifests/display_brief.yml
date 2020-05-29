@@ -40,7 +40,8 @@
   name: Work setup
   questions:
     - workplaceAddress
-    - workingArrangements
+    - workingArrangementsOutcomes
+    - workingArrangementsSpecialists
     - securityClearance
 -
   name: Additional information

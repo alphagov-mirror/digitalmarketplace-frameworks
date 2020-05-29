@@ -1,3 +1,4 @@
+id: workingArrangements
 name: Working arrangements
 question: Working arrangements
 question_advice: |
@@ -14,7 +15,6 @@ max_length_in_words: 100
 depends:
   - "on": "lot"
     being:
-      - digital-outcomes
       - digital-specialists
 validations:
   -
