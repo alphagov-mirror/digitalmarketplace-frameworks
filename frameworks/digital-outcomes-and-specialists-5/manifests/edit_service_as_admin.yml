@@ -1,4 +1,4 @@
-- name: Lab name
+- name: Research studio name
   editable: True
   questions:
     - serviceName
